@@ -1,0 +1,333 @@
+/* body {
+  background-color:  #eee;
+}
+.title {
+ 
+    margin-bottom: 50px;
+    text-transform: uppercase;
+}
+
+.card-block {
+    font-size: 1em;
+    position: relative;
+    margin: 0;
+    padding: 1em;
+    border: none;
+    border-top: 1px solid rgba(34, 36, 38, .1);
+    box-shadow: none;
+     
+}
+.card {
+    font-size: 1em;
+    overflow: hidden;
+    padding: 5;
+    border: none;
+    border-radius: .28571429rem;
+    box-shadow: 0 1px 3px 0 #d4d4d5, 0 0 0 1px #d4d4d5;
+    margin-top:20px;
+}
+
+.carousel-indicators li {
+    border-radius: 12px;
+    width: 12px;
+    height: 12px;
+    background-color: #404040;
+}
+.carousel-indicators li {
+    border-radius: 12px;
+    width: 12px;
+    height: 12px;
+    background-color: #404040;
+}
+.carousel-indicators .active {
+    background-color: white;
+    max-width: 12px;
+    margin: 0 3px;
+    height: 12px;
+}
+.carousel-control-prev-icon {
+ background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23fff' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E") !important;
+}
+
+.carousel-control-next-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23fff' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E") !important;
+}
+ /* lex-direction: column;
+} */
+
+/* .btn {
+  margin-top: auto;
+}  */
+
+/* body {
+  background-color:  #eee;
+}
+.title {
+ 
+    margin-bottom: 50px;
+    text-transform: uppercase;
+}
+
+.card-block {
+    font-size: 1em;
+    position: relative;
+    margin: 0;
+    padding: 1em;
+    border: none;
+    border-top: 1px solid rgba(34, 36, 38, .1);
+    box-shadow: none;
+     
+}
+.card {
+    font-size: 1em;
+    overflow: hidden;
+    padding: 5;
+    border: none;
+    border-radius: .28571429rem;
+    box-shadow: 0 1px 3px 0 #d4d4d5, 0 0 0 1px #d4d4d5;
+    margin-top:20px;
+}
+
+.carousel-indicators li {
+    border-radius: 12px;
+    width: 12px;
+    height: 12px;
+    background-color: #404040;
+}
+.carousel-indicators li {
+    border-radius: 12px;
+    width: 12px;
+    height: 12px;
+    background-color: #404040;
+}
+.carousel-indicators .active {
+    background-color: white;
+    max-width: 12px;
+    margin: 0 3px;
+    height: 12px;
+}
+.carousel-control-prev-icon {
+ background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23fff' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E") !important;
+}
+
+.carousel-control-next-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23fff' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E") !important;
+}
+ /* lex-direction: column;
+} */
+
+/* .btn {
+  margin-top: auto;
+} */
+
+
+/* new */
+/* body {
+  font-family: Arial;
+  padding: 20px;
+  background: #f1f1f1;
+} */
+
+/* Header/Blog Title */
+/* .header {
+  padding: 30px;
+  font-size: 40px;
+  text-align: center;
+  background: white;
+} */
+
+/* Create two unequal columns that floats next to each other */
+/* Left column */
+/* .leftcolumn {
+  float: left;
+  width: 75%;
+} */
+
+/* Right column */
+/* .rightcolumn {
+  float: left;
+  width: 25%;
+  padding-left: 20px;
+} */
+
+/* Fake image */
+/* .fakeimg {
+  background-color: #aaa;
+  width: 100%;
+  padding: 20px; */
+/* } */
+
+/* Add a card effect for articles */
+/* .card {
+  background-color: white;
+  padding: 20px;
+  margin-top: 20px;
+} */
+
+/* Clear floats after the columns */
+/* .row:after {
+  content: "";
+  display: table;
+  clear: both;
+} */
+
+/* Footer */
+/* .footer {
+  padding: 20px;
+  text-align: center;
+  background: #ddd;
+  margin-top: 20px;
+} */
+
+/* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
+/* @media screen and (max-width: 800px) {
+  .leftcolumn, .rightcolumn {
+    width: 100%;
+    padding: 0;
+  }
+} */
+/* .image {
+  background-image: url(images/KOZHIKODE1.jpeg) no repeat;
+	/* height:50%; */
+  /* background-position: center;
+  background-size:contain;
+  width: 100%;
+  /* text-align: center; */
+/* }  */
+
+/* .header {
+  width: 100%;
+	padding-top: 50px;
+	/* color: white; */
+	/* font-size: 20px; */
+	/* text-align: center;
+}  */
+#header {
+  background: url(https://images.unsplash.com/photo-1415795854641-f4a487a0fdc8?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80) center center / cover no-repeat ;
+}
+
+.card-img-top {
+  position: center;
+  width: 100%;
+  height: 16vh;
+  object-fit: cover;
+  
+}
+.card:hover{
+  /* box-shadow: 8px 8px 8px blue; */
+  /* transform:scale(1.2); */
+  transform: translateY(-.5%);
+  box-shadow: 0 4rem 8rem rgba(0, 0, 0, .2);
+
+}
+/* 
+header{
+  
+        background-image: linear-gradient(to bottom, rgba(0,0,0,0.7) 0%,rgba(0,0,0,0.7) 100%), url('images/kollam jatayu earth.jpeg');
+/* background-color: linear; */
+/* }  */
+
+.pic{
+  padding-bottom: 10px;
+  width: 100%;
+  height: 70%;
+  max-height: 550px;
+  /* background-image: linear-gradient(to bottom, rgba(0,0,0,0.7) 0%,rgba(0,0,0,0.7) 100%), url('images/kollam jatayu earth.jpeg'); */
+
+}
+
+#gallery {
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0.7) 0%,rgba(0,0,0,0.7) 100%), url('images/kollam jatayu earth.jpeg');
+
+}
+#gallery_kannur{
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0.7) 0%,rgba(0,0,0,0.7) 100%), url('images/kannur muzhappilangad beach.jpeg');
+  background-size: cover;
+}
+
+#gallery_Ernakulam{
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0.7) 0%,rgba(0,0,0,0.7) 100%), url('images/kochi-kerala-tourism-entry-fee-timings-holidays-reviews-header.jpeg');
+  background-size: cover;
+}
+
+#gallery_Malappuram{
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0.7) 0%,rgba(0,0,0,0.7) 100%), url('images/malappuram kodikuthimala.jpeg');
+  background-size: cover;
+}
+#gallery_Kozhikode{
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0.7) 0%,rgba(0,0,0,0.7) 100%), url('images/KOZHIKODE1.jpeg');
+background-repeat: no-repeat;
+background-size: cover;
+  
+}
+#gallery_Wayanad{
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0.7) 0%,rgba(0,0,0,0.7) 100%), url('images/wayanad-kerala-tourism-entry-fee-timings-holidays-reviews-header.jpeg');
+background-repeat: no-repeat;
+background-size: cover;
+  
+}
+#gallery_Palakkad{
+background-image: linear-gradient(to bottom, rgba(0,0,0,0.7) 0%,rgba(0,0,0,0.7) 100%), url('images/Palakkad_Fort_Well_Inside.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+  
+}
+#gallery_Pathanamthitta{
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0.7) 0%,rgba(0,0,0,0.7) 100%), url('images/pathanamthitta img.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+    
+  }
+  #gallery_Trivandrum{
+    background-image: linear-gradient(to bottom, rgba(0,0,0,0.7) 0%,rgba(0,0,0,0.7) 100%), url(' images/trivandrum-kerala-tourism-entry-fee-timings-holidays-reviews-header.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+      
+    }
+    #gallery_Kottayam{
+      background-image: linear-gradient(to bottom, rgba(0,0,0,0.7) 0%,rgba(0,0,0,0.7) 100%), url('    images/kumarakom-kottayam-kerala-tourism-entry-fee-timings-holidays-reviews-small.jpeg');
+      background-repeat: no-repeat;
+      background-size: cover;
+        
+      }
+
+      #gallery_Alappuzha{
+        background-image: linear-gradient(to bottom, rgba(0,0,0,0.7) 0%,rgba(0,0,0,0.7) 100%), url('       images/alleppey-kerala-tourism-entry-fee-timings-holidays-reviews-header.jpeg');
+        background-repeat: no-repeat;
+        background-size: cover;
+          
+        }
+        #gallery_Idukki{
+          background-image: linear-gradient(to bottom, rgba(0,0,0,0.7) 0%,rgba(0,0,0,0.7) 100%), url('        images/idukki img.jpeg          ');
+          background-repeat: no-repeat;
+          background-size: cover;
+            
+          }
+
+          #gallery_Kasargod{
+            background-image: linear-gradient(to bottom, rgba(0,0,0,0.7) 0%,rgba(0,0,0,0.7) 100%), url('images/Kasargod.jpg');
+            background-repeat: no-repeat;
+            background-size: cover;
+              
+            }
+
+            #gallery_Thrissur{
+              background-image: linear-gradient(to bottom, rgba(0,0,0,0.7) 0%,rgba(0,0,0,0.7) 100%), url('images/Thrissur athirappalli_and_vazhachal_waterfalls_thrissur20131031102422_79_1.jpeg');
+              background-repeat: no-repeat;
+              background-size: cover;
+                
+              }
+          
+
+.row{
+  padding-top: 30px;
+}
+#header1{
+  /* background-image: linear-gradient(to bottom, rgba(0,0,0,0.7) 0%,rgba(0,0,0,0.7) 100%), url('images/kollam jatayu earth.jpeg');
+color: #fff; */
+}
+
+#header1 p{
+  padding-top:0.5%;
+  font-size: medium;
+}
